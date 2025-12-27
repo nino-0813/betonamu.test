@@ -1,0 +1,8 @@
+{
+  "name": "Xin Chào - ベトナムの手仕事と暮らす",
+  "description": "ベトナムの美しい雑貨とその背景にある物語、文化、人々を動画とAIチャットで深く知るための体験型プラットフォームです。単なるECではなく、暮らしに寄り添う物語を届けます。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

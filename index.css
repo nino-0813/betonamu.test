@@ -1,0 +1,12 @@
+/* Minimal global styles (kept small on purpose) */
+
+/* Hide scrollbars for Stories (used via className="scrollbar-hide") */
+.scrollbar-hide {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none; /* Chrome, Safari and Opera */
+}
+
+
